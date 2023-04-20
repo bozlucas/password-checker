@@ -24,7 +24,7 @@ Usage
 
 The code can be run from the command line using the following syntax:
 
-Copy code
+```python
 
 `python password_checker.py password1 password2 password3 ...`
 
